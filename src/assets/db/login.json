@@ -1,0 +1,15 @@
+
+[
+    {
+        "username":"Hardik",
+        "email":"hg@wer.com",
+        "password": "Test@123",
+        "role":"User"
+    },
+    {
+        "username":"Admin",
+        "email":"admin@admin.com",
+        "password": "Admin@123",
+        "role":"Admin"
+    }
+]
